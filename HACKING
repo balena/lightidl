@@ -1,0 +1,8 @@
+Hacking lightIDL
+================
+
+	Please log all patches/bug-reports sf.net/projects/lightidl
+and get approval from myself (Guilherme) before committing.
+
+    Remember this library is a fork of Gnome libIDL 0.8.7. All
+credits should be made to them.

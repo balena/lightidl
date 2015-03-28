@@ -1,0 +1,20 @@
+Using lightIDL for Win32
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Win32 lightIDL requires the use of gpp (General Preprocessor). You
+should be able to obtain it from http://en.nothingisreal.com/wiki/GPP.
+
+Building
+~~~~~~~~
+
+Use CMake. You should be able to obtain it from http://www.cmake.org.
+
+Using the Library
+~~~~~~~~~~~~~~~~~
+
+After building, all you need are the files IDL.h and lightIDL-x.x.dll
+and lightIDL-x.x.lib.  Place the include file in a place where it can
+be found with libIDL/IDL.h.
+
+--
+Guilherme Balena Versiani <guibv@yahoo.com>
